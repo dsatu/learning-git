@@ -8,3 +8,4 @@ drwxr-xr-x. 2 maxi maxi  21 Nov 22 15:01 test
 drwxr-xr-x. 4 maxi maxi 128 Nov 23 03:25 learning-git
 -rw-r--r--. 1 maxi maxi  58 Nov 23 03:27 utils.js
 -rw-r--r--. 1 maxi maxi   0 Nov 23 12:32 app.java
+ deployment is ready in uat
